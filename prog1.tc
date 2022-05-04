@@ -1,0 +1,11 @@
+/* ESTE PROGRAMA ES UNA MUESTRA
+DEL LENGUAJE C--
+*/
+int mcd(int u, int v) {
+if (v==0) return u;
+}
+void main(void) {
+int x;
+int y;
+output( mcd(x, y) );
+}
